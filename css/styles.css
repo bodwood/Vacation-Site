@@ -1,3 +1,15 @@
 body{
   background-image: url("https://www.wallpaperuse.com/wallp/28-282250_m.jpg");
 }
+
+.jumbotron {
+  background: rgba(204, 204, 204, 0.91);
+}
+
+h1{
+  text-align: center;
+}
+
+h4{
+  text-align: center;
+}
